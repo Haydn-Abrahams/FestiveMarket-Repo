@@ -1,0 +1,31 @@
+.container {
+    width: 100%;
+    height: 400px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.heading-container {
+    width: 90%;
+}
+
+.heading-container h1 {
+    font-weight: 400;
+}
+
+.date-container {
+    width: 90%;
+}
+
+.date-container h5 {
+    font-weight: 500;
+}
